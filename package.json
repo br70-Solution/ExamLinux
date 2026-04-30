@@ -1,0 +1,12 @@
+{
+  "name": "exam-linux",
+  "version": "1.0.0",
+  "description": "Examen en ligne - Linux",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "express": "^4.21.0",
+    "uuid": "^10.0.0"
+  }
+}
